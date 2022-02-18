@@ -60,6 +60,7 @@ function sendEmail(){
     + "<br> Name :"     + document.getElementById("fname").value
     + "<br> Email :"    + document.getElementById("email").value
     + "<br> Phone Number :"  + document.getElementById("number").value
+    + "<br> WhatsApp Number :"  + document.getElementById("wnumber").value
     + "<br> Address :"   + document.getElementById( "adr").value
     + "<br> city or District :"   + document.getElementById(  "city").value
     + "<br> State :"   + document.getElementById("state").value
